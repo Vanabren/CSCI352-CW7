@@ -1,7 +1,7 @@
 # CW7 Vance Brender-A-Brandis #
 
 ## Description ##
-- My implementation of the CW7.dia UML design, which focus on the Decorator structural design pattern.
+- My implementation of the decorator.dia UML design provided by Dr. Ericson, which focus on the Decorator structural design pattern.
 
 ## Project Details ##
 - The project contains a widget interface (IWidget) from which a TextField concrete class is created from, as well as an abstract Decorator class.
